@@ -40,7 +40,7 @@ export default function Register() {
 
   return (
     <AuthShell
-      eyebrow="Shopling"
+      eyebrow="AskAivora"
       title="Create your account"
       subtitle="Tell your agent a little about yourself so it can shop smarter for you."
       footer={

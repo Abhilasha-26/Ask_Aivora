@@ -29,7 +29,7 @@ export default function Login() {
 
   return (
     <AuthShell
-      eyebrow="Shopling"
+      eyebrow="AskAivora"
       title="Welcome back"
       subtitle="Log in to pick up your shopping conversation right where you left it."
       footer={

@@ -20,7 +20,7 @@ export default function Navbar() {
         <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center shadow-glow">
           <Bot size={20} className="text-white" />
         </div>
-        <span className="font-display font-semibold text-lg tracking-tight">Shopling</span>
+        <span className="font-display font-semibold text-lg tracking-tight">AskAivora</span>
       </Link>
 
       <div className="flex items-center gap-2">

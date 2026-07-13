@@ -2,7 +2,7 @@ import { Bot } from "lucide-react";
 
 /**
  * Shared frame for the Login and Register pages: ambient gradient glow,
- * centered glassmorphic card, and the Shopling logo lockup up top so both
+ * centered glassmorphic card, and the AskAivora logo lockup up top so both
  * auth screens feel like one continuous moment instead of two bare forms.
  */
 export default function AuthShell({ eyebrow, title, subtitle, children, footer }) {
